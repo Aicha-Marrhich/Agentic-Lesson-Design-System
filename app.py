@@ -6,7 +6,7 @@ from crewai import Agent, Task, Crew, Process, LLM
 # PAGE SETUP
 # ─────────────────────────────────────────
 st.set_page_config(
-    page_title="Multi-Agent Lesson Designer",
+    page_title="Agentic Lesson Designer",
     page_icon="🎓",
     layout="centered"
 )
